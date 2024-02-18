@@ -7,3 +7,4 @@ A revista pede a citação e o referenciamento dos dados, códigos de programas 
 
 Como apoio a essa prática, a _E-Legis_ disponibiliza este espaço, gerenciado pela equipe editorial, para esta finalidade.
 
+Neste repositório, os arquivos estão vinculados aos respectivos manuscritos publicados, bastando procurar o ano de publicação, o número da edição e o número do artigo na ordem de publicação.
