@@ -1,5 +1,5 @@
 # E-Legis
-Repositório de arquivos relacionados às publicações da E-Legis
+Repositório de arquivos relacionados às publicações da _E-Legis_ – Revista eletrônica do Programa de Pós-Graduação da Câmara dos Deputados
 
 A revista _E-Legis_ alinha-se às práticas da ciência aberta em sua política, gestão e operação editorial. A ciência aberta visa à transparência dos processos e ao compartilhamento dos conteúdos em prol da melhor comunicação científica, do aperfeiçoamento metodológico, da reprodutibilidade da pesquisa e da colaboração entre pesquisadores.
 
